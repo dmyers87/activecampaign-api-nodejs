@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "request": "2.x",
-    "rsvp": "3.0.x"
+    "rsvp": "3.6.2"
   },
   "devDependencies": {
     "express": ">=2.5.1"
